@@ -1,3 +1,6 @@
 jupyterlab
 pandas
 sklearn
+pickle
+Flask
+requests
